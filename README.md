@@ -74,3 +74,11 @@ psql -U postgres -d finance_portfolio -f queries/03_trial_balance.sql
 - Date arithmetic for overdue and days-in-draft calculations
 - Data integrity checks
 - Multi-tenant data isolation by `company_id`
+
+## How to Run
+
+## Try it Live
+
+Run queries against the full dataset in your browser — no setup needed:
+
+[Open in DB Fiddle](https://www.db-fiddle.com/f/7CHgYE5Hiyp7RGZEbW8kCY/2)
